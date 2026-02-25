@@ -48,7 +48,6 @@ Currently focusing on:
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/jessica-m-9722a3380/
-- Email: [Your Email]
 
 ---
 
