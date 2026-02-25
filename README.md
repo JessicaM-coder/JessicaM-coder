@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Jessica Marodi
 
-<!--
-**JessicaM-coder/JessicaM-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Software Engineer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀About Me
+
+I am a goal-oriented Computer Science student passionate about:
+- Writing clean, efficient code
+- Solving real-world problems
+- Building systems from scratch
+- Continuously improving my technical skills
+
+Currently focusing on:
+- Data Structures & Algorithms
+- Java & Python
+- Database Systems (MariaDB, SQL)
+- Web Development (HTML, CSS)
+- Cybersecurity fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+- Java  
+- Python  
+- C++ (C++98)  
+- SQL  
+
+**Tools & Technologies:**  
+- Git & GitHub  
+- VS Code  
+- MariaDB  
+- Arduino  
+
+---
+
+## 📌 Current Focus
+
+- 🔹 Mini Projects
+- 🔹 Capstone COS301
+- 🔹 Vibe Coding
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/jessica-m-9722a3380/
+- Email: [Your Email]
+
+---
+
+> "Discipline creates freedom."
