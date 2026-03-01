@@ -1,4 +1,4 @@
-# Hi, I'm Jessica ⚔️
+# Hi, I'm Jessica 
 
 A Computer Science Student | Aspiring Software Engineer | Cybersecurity Enthusiast
 
@@ -38,9 +38,9 @@ Currently focusing on:
 
 ## Current Focus
 
-- 🔹 Mini Projects
-- 🔹 Capstone COS301
-- 🔹 Vibe Coding
+-  Mini Projects
+-  Capstone COS301
+-  Vibe Coding
 
 ---
 
