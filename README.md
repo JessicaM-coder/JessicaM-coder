@@ -1,10 +1,9 @@
-# Hi 👋, I'm Jessica Marodi
+# Hi, I'm Jessica Marodi
 
-🎓 Computer Science Student  
-💻 Aspiring Software Engineer | Cybersecurity Enthusiast
+A Computer Science Student | Aspiring Software Engineer | Cybersecurity Enthusiast
 
 
-## 🚀About Me
+## About Me
 
 I am a goal-oriented Computer Science student passionate about:
 - Writing clean, efficient code
