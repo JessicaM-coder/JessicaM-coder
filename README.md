@@ -1,4 +1,4 @@
-# Hi, I'm Jessica Marodi ⚔️
+# Hi, I'm Jessica ⚔️
 
 A Computer Science Student | Aspiring Software Engineer | Cybersecurity Enthusiast
 
@@ -20,7 +20,7 @@ Currently focusing on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 - Java  
@@ -36,7 +36,7 @@ Currently focusing on:
 
 ---
 
-## 📌 Current Focus⚔️
+## Current Focus⚔️
 
 - 🔹 Mini Projects
 - 🔹 Capstone COS301
@@ -44,7 +44,7 @@ Currently focusing on:
 
 ---
 
-## 📫 Connect With Me ⚔️
+## Connect With Me ⚔️
 
 - LinkedIn: https://www.linkedin.com/in/jessica-m-9722a3380/
 
