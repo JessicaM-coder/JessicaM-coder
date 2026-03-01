@@ -50,4 +50,4 @@ Currently focusing on:
 
 ---
 
-> "Discipline creates freedom."
+> "I can do anything i set my mind to"
