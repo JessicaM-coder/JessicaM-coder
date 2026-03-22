@@ -17,6 +17,7 @@ Currently focusing on:
 - Database Systems (MariaDB, SQL)
 - Web Development (HTML, CSS)
 - Cybersecurity fundamentals
+- CI/CD Pipelines
 
 ---
 
