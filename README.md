@@ -7,11 +7,6 @@
 ## 🛠️ Tech Stack
 ![Skills](https://skillicons.dev/icons?i=java,python,cpp,dart,flutter,html,css,git,github,vscode,mysql,arduino&perline=8)
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=D4537E&icon_color=ED93B1)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=D4537E&fire=F4C0D1&currStreakLabel=D4537E)
 
 ---
 
