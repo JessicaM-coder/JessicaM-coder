@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F4C0D1,50:D4537E,100:72243E&height=130&section=header&text=Hi,%20I'm%20Jessica%20🌸&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20|%20Aspiring%20SWE%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=13&descColor=FBEAF0)
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4537E&width=500&center=true&lines=Writing+clean,+efficient+code+🌸;Solving+real-world+problems...;Building+systems+from+scratch...;Always+improving+🚀)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4537E&width=500&center=true&lines=Writing+clean,+efficient+code+🌸;Solving+real-world+problems...;Building+systems+from+scratch...;Always+improving+!)
 
 ---
 
