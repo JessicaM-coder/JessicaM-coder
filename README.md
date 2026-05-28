@@ -4,13 +4,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![Skills](https://skillicons.dev/icons?i=java,python,cpp,dart,flutter,html,css,git,github,vscode,mysql,arduino&perline=8)
 
 
 ---
 
-## 🤝 Connect
+##  Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jessica--m-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-m-9722a3380/)
 
 ---
