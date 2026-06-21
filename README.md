@@ -9,10 +9,10 @@
 
 
 ---
-
-##  Connect
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jessica--m-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-m-9722a3380/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-jessicalesego27@gmail.com-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicalesego27@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B27--81--307--2603-D4537E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+27813072603)
 ---
 
 > 🌸"I can always figure it out." 🌸
