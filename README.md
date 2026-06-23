@@ -5,7 +5,7 @@
 ---
 
 ##  Tech Stack
-![Skills](https://skillicons.dev/icons?i=java,python,cpp,dart,flutter,html,css,git,github,vscode,mysql,flutter,figma,arduino&perline=8)
+![Skills](https://skillicons.dev/icons?i=java,python,cpp,dart,flutter,html,css,git,github,vscode,mysql,react,figma,next,arduino&perline=8)
 
 
 ---
