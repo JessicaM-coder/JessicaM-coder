@@ -7,10 +7,36 @@
 ##  Tech Stack
 ![Skills](https://skillicons.dev/icons?i=java,python,cpp,dart,flutter,html,css,git,github,vscode,mysql,react,figma,next,arduino&perline=8)
 
+---
+## 🌸 About Me
 
+Hi, I'm **Jessica Marodi**, a final-year **BSc Computer Science student
+at the University of Pretoria**.
+
+I enjoy creating thoughtful user interfaces and understanding how systems
+work behind the scenes. My interests include **software engineering,
+UI/UX design, backend development, and cybersecurity**.
+
+I believe in learning deeply, staying curious, and working through
+challenges one step at a time.
+
+## What I Do
+
+- **Frontend Lead & UI/UX** for **Budget It**, our COS301 capstone project.
+- Build mobile interfaces using **Flutter and Dart**.
+- Design experiences that make everyday tasks clearer and easier.
+- Explore backend development and strengthen my cybersecurity skills.
+
+## Beyond Code
+
+I enjoy **swimming** — a space where I challenge myself, build confidence,
+and keep improving.
+
+Whether I'm in the pool or working through a difficult programming
+problem, I value **persistence, curiosity, and continuous growth**.
 ---
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jessica--m-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-m-9722a3380/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Jessica%20Marodi-D4537E?style=for-the-badge&logo=github&logoColor=white)](https://jessicam-coder.github.io/Portfolio/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-jessica--m-D4537E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-m-9722a3380/)
 [![Gmail](https://img.shields.io/badge/Gmail-jessicalesego27@gmail.com-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicalesego27@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B27--81--307--2603-D4537E?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+27813072603)
 ---
