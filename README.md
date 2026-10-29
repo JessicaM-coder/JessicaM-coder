@@ -2,6 +2,7 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4537E&width=500&center=true&lines=Learning+deeply,+building+deliberately+🌸;Always+learning+...;Building+systems+from+scratch...;One+step+at+a+time+!)
 
+[![Resume](https://img.shields.io/badge/Resume-D4537E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://jessicam-coder.github.io/Portfolio/Lesego_Jessica_Marodi_CV.pdf)
 ---
 
 ##  Tech Stack
@@ -9,6 +10,7 @@
 
 ---
 ## 🌸 About Me
+
 
 Hi, I'm **Jessica Marodi**, a final-year **BSc Computer Science student
 at the University of Pretoria**.
